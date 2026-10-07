@@ -1,0 +1,8 @@
+.env*
+!.env.example
+.photo-poc-state.json
+.photo-poc-state.tmp
+.photo-poc.lock
+__pycache__/
+static/demo-preview.jpg
+static/api-explanation-preview.jpg
